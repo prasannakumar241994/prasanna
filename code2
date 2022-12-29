@@ -1,1 +1,6 @@
-testing data 
+git clone
+git pull
+git push
+git revert
+git reset
+git rebase
